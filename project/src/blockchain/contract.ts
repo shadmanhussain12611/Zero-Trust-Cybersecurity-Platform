@@ -1,5 +1,5 @@
 import { ethers } from "ethers";
-import contractABI from "../../artifacts/contracts/ZeroTrustIAM.sol/ZeroTrustIAM.json";
+import contractABI from "../abi/Counter";
 
 // Contract address (deployed on Sepolia testnet)
 const CONTRACT_ADDRESS = "0xB4801c10221F067400e8BFdA39181bCC55Aa7D78";
@@ -145,7 +145,7 @@ export async function getContractInstance(): Promise<IZeroTrustContract> {
     
     const contract = new ethers.Contract(
       CONTRACT_ADDRESS,
-      contractABI.abi,
+      contractABI,
       signer
     ) as IZeroTrustContract;
 

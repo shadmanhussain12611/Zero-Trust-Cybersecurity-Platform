@@ -115,10 +115,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Smart contracts powered by [Hardhat](https://hardhat.org/).
 
 ## Contributors
-- [MDARBAZ18](https://github.com/MDARBAZ18)
-- [ShaikLateef9](https://github.com/ShaikLateef9)
-- [akramInCode](https://github.com/akramInCode)
+- [MDSHADMANHUSSAIN]
+- [MOHAMMEDABDULRAHMAN]
+- [MOHAMMEDALI]
 
-## Live Demo
-Check out the live version of the project here: [Zero Trust Cybersecurity Platform](https://zero-trust-cybersecurity-platform-o0g0qyqq0-diigootasks.vercel.app)
 
