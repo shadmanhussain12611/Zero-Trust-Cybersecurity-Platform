@@ -38,7 +38,7 @@ project/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MDARBAZ18/ZeroTrustCyberSecurityPlatform.git
+   git clone https://github.com/shadmanhussain12611/Zero-Trust-Cybersecurity-Platform.git
    cd ZeroTrustCyberSecurityPlatform
    ```
 
@@ -115,8 +115,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Smart contracts powered by [Hardhat](https://hardhat.org/).
 
 ## Contributors
-- [MDSHADMANHUSSAIN]
-- [MOHAMMEDABDULRAHMAN]
-- [MOHAMMEDALI]
+- MD SHADMAN HUSSAIN
+  MOHAMMAD ABDUL RAHMAN
+- MOHAMMED ALI
 
 
